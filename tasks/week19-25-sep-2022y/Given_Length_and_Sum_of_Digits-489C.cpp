@@ -22,3 +22,4 @@ int main() {
 }
 
 // problem link --> https://codeforces.com/contest/489/problem/C?locale=ru
+// Даны длина и сумма цифр CodeForces
