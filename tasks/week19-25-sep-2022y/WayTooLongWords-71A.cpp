@@ -13,3 +13,4 @@ int main() {
 }
 
 // problem link --> https://codeforces.com/problemset/problem/71/A
+// Слишком Длинные Слова CodeForces
